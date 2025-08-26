@@ -1,35 +1,64 @@
 <h1 align="center">Hi 👋, I'm Rajsekhar Acharya</h1>
-<h3 align="center">Full Stack Developer | Spring Boot & Angular Specialist</h3>
+<h3 align="center">🚀 Full Stack Developer | Spring Boot & Angular Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsekharacharya&label=Profile%20views&color=0e75b6&style=flat" alt="rajsekharacharya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajsekharacharya" alt="rajsekharacharya" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/imrajsekhar" target="blank"><img src="https://img.shields.io/twitter/follow/imrajsekhar?logo=twitter&style=for-the-badge" alt="imrajsekhar" /></a> </p>
-
-- 🔭 I’m currently working on **Smart Raw Material Procurement System**
-
-- 🌱 I’m currently learning **I am constantly exploring new technologies and methodologies to stay ahead in the fast-paced world of software development. Whether diving into the latest cloud computing advancements or mastering microservices, I am committed to continuous learning and growth.**
-
-- 💬 Ask me about **👋 I'm a dedicated Full Stack Developer with a strong foundation in Spring Boot and Angular, where I focus on building scalable, high-performance web applications. Over the years, I've immersed myself in the art and science of software development, driven by a passion for solving complex problems and delivering efficient, user-centric solutions.**
-
-- 📫 How to reach me **rajsekhar.acharya@gmail.com**
-
-- 📄 Know about my experiences [https://rajsekharacharya.github.io//resume.pdf](https://rajsekharacharya.github.io//resume.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imrajsekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrajsekhar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajsekhar-acharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajsekhar-acharya" height="30" width="40" /></a>
-<a href="https://fb.com/rajsekhar.acharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajsekhar.acharya" height="30" width="40" /></a>
-<a href="https://instagram.com/rajsekhar_acharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajsekhar_acharya" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajsekharacharya&label=Profile%20views&color=0e75b6&style=flat" alt="rajsekharacharya" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rajsekharacharya&theme=gruvbox&margin-w=15&margin-h=15" alt="rajsekharacharya" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajsekharacharya&show_icons=true&locale=en&layout=compact" alt="rajsekharacharya" /></p>
+<p align="center">
+  <a href="https://twitter.com/imrajsekhar" target="blank">
+    <img src="https://img.shields.io/twitter/follow/imrajsekhar?logo=twitter&style=for-the-badge" alt="imrajsekhar" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajsekharacharya&show_icons=true&locale=en" alt="rajsekharacharya" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajsekharacharya&" alt="rajsekharacharya" /></p>
+### 🌟 About Me  
+
+- 🔭 Currently working on: **Cuisine Command (Your Kitchen Companion, Anytime, Anywhere!)**  
+- 🌱 Learning: Exploring **Cloud Computing, Microservices, and Next-Gen Web Architectures**  
+- 💬 Ask me about: **Spring Boot | Angular | Full Stack Web Development**  
+- 📫 Reach me at: **rajsekhar.acharya@gmail.com**  
+- 📄 Check my [Resume](https://rajsekharacharya.github.io//resume.pdf)  
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+  <a href="https://twitter.com/imrajsekhar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40" /></a>
+  <a href="https://linkedin.com/in/rajsekhar-acharya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" /></a>
+  <a href="https://fb.com/rajsekhar.acharya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=facebook" alt="facebook" height="40" /></a>
+  <a href="https://instagram.com/rajsekhar_acharya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" /></a>
+</p>
+
+---
+
+### ⚒️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,js,html,css,aws,docker,jenkins,kafka,git,linux,mysql,postgresql,mongodb,oracle,nodejs,graphql,nginx" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajsekharacharya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top-langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajsekharacharya&show_icons=true&locale=en&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsekharacharya&theme=tokyonight" alt="streak" />
+</p>
+
+---
+✨ _“Passionate about building scalable, high-performance web applications and solving complex problems with clean, efficient code.”_
