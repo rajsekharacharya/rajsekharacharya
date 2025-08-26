@@ -88,20 +88,4 @@
 </p>
 
 ---
-
-## 🏆 Achievements  
-
-<p align="center">
-  <!-- GitHub Stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajsekharacharya&show_icons=true&theme=tokyonight)](https://github.com/rajsekharacharya)
-
-<!-- Contribution Streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajsekharacharya&theme=tokyonight)](https://github.com/rajsekharacharya)
-
-<!-- Top Languages -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajsekharacharya&layout=compact&theme=tokyonight)](https://github.com/rajsekharacharya)
-
-</p>
-
----
 ✨ _Passionate about building scalable, high-performance applications that solve real-world problems with clean, efficient code._  
