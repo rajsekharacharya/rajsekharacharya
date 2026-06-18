@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Rajsekhar%20Acharya&fontSize=50&fontColor=fff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%26%20Angular&descAlignY=56&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,100:C06C84&height=200&section=header&text=Rajsekhar+Acharya&fontSize=50&fontColor=fff&fontAlignY=38" width="100%"/>
+
+<div align="center">
+<h3>🚀 Full Stack Developer &nbsp;|&nbsp; Spring Boot &amp; Angular</h3>
+</div>
 
 <div align="center">
 
@@ -157,4 +161,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C06C84,100:355C7D&height=120&section=footer&text=Thanks+for+visiting!&fontSize=28&fontColor=fff&fontAlignY=65" width="100%"/>
