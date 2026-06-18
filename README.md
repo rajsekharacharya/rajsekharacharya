@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rajsekhar%20Acharya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%26%20Angular&descAlignY=56&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Rajsekhar%20Acharya&fontSize=50&fontColor=fff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%26%20Angular&descAlignY=56&descAlign=50" width="100%"/>
 
 <div align="center">
 
@@ -130,7 +130,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajsekharacharya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rajsekharacharya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" width="95%" />
 </div>
 
 ---
@@ -157,4 +157,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&fontAlignY=65" width="100%"/>
