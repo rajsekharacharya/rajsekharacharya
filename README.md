@@ -131,10 +131,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajsekharacharya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajsekharacharya&theme=tokyonight" width="95%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajsekharacharya&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajsekharacharya&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajsekharacharya&theme=tokyonight&utcOffset=5.5" width="32%" />
 </div>
 
 ---
