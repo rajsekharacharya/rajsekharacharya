@@ -23,6 +23,8 @@
 
 ## About
 
+<img align="right" alt="Developer coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
 Java backend developer with **5 years** building and scaling enterprise production systems on Java 17, Spring Boot and microservices. I specialise in REST API design, event-driven architecture with Apache Kafka, Spring Cloud and OAuth2/JWT security.
 
 - Senior Java Backend Developer at **Vareli Tecnac Pvt Ltd**, Kolkata, since 2022
@@ -30,6 +32,8 @@ Java backend developer with **5 years** building and scaling enterprise producti
 - Currently building **PPP**, a court booking and match-video platform, with Go, Spring Boot and Angular
 - Working towards the **AWS Certified Solutions Architect, Associate** certification
 - Ask me about Spring Boot, Kafka, API security and microservice design
+
+<br clear="right"/>
 
 ---
 
