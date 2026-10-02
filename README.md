@@ -1,157 +1,105 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,100:C06C84&height=200&section=header&text=Rajsekhar+Acharya&fontSize=50&fontColor=fff&fontAlignY=38" width="100%"/>
-
-<div align="center">
-<h3>🚀 Full Stack Developer &nbsp;|&nbsp; Spring Boot &amp; Angular</h3>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0b,100:c2370a&height=190&section=header&text=Rajsekhar+Acharya&fontSize=52&fontColor=ededee&fontAlignY=40&desc=Senior+Java+Backend+Developer&descSize=20&descAlignY=62&descColor=ff6a3d" width="100%" alt="Rajsekhar Acharya, Senior Java Backend Developer" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%9A%80+Building+Scalable+Full+Stack+Apps;%E2%9A%A1+Spring+Boot+%2B+Angular+Enthusiast;%F0%9F%8C%90+Microservices+%7C+Cloud+%7C+SaaS;%F0%9F%94%A5+Clean+Code+%2C+High+Performance+Always!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=FF6A3D&center=true&vCenter=true&width=720&lines=Backend+systems+that+hold+up+under+load;Spring+Boot+%C2%B7+Microservices+%C2%B7+Apache+Kafka;REST+APIs+secured+with+OAuth2+and+JWT;Based+in+Kolkata%2C+India)](https://rajsekharacharya.github.io)
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rajsekharacharya&label=👁️+Profile+Views&color=0e75b6&style=flat-square" />
-  &nbsp;
-  <a href="https://twitter.com/imrajsekhar"><img src="https://img.shields.io/twitter/follow/imrajsekhar?style=flat-square&logo=twitter&color=1DA1F2&label=Twitter+Followers" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/rajsekharacharya?style=flat-square&color=brightgreen&label=GitHub+Followers&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=rajsekharacharya&label=Profile+views&color=c2370a&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/rajsekharacharya?tab=followers"><img src="https://img.shields.io/github/followers/rajsekharacharya?style=flat-square&color=c2370a&label=GitHub+followers&logo=github&logoColor=white" alt="GitHub followers" /></a>
 </p>
 
-</div>
-
----
-
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-### 👋 Hello World!
-
-- 🔭 Currently building **Full Stack Apps** with Spring Boot & Angular
-- 🌱 Exploring **Cloud Architecture, Microservices & SaaS**
-- 💬 Ask me about **Spring Boot · Angular · Java · REST APIs**
-- 🤝 Open to collaborating on **enterprise-grade Java projects**
-- 📫 Reach me at **rajsekhar.acharya@gmail.com**
-- 📄 Check out my **[Resume](https://rajsekharacharya.github.io/RajsekharAcharyaResume.pdf)**
-- ⚡ Fun fact: _I think in microservices_ 😄
-
-<br clear="right"/>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/rajsekhar-acharya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-  </a>
-  <a href="https://twitter.com/imrajsekhar" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
-  </a>
-  <a href="https://instagram.com/rajsekhar_acharya" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
-  </a>
-  <a href="https://fb.com/rajsekhar.acharya" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" />
-  </a>
-  <a href="mailto:rajsekhar.acharya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
-  </a>
-  <a href="https://rajsekharacharya.github.io/RajsekharAcharyaResume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=4285F4" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### ☕ Backend & Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,maven&theme=dark" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap&theme=dark" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
-</p>
-
-### ☁️ DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,kafka,git,github,linux&theme=dark" />
-</p>
-
-### 🧰 Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,postman,figma&theme=dark" />
+  <a href="https://rajsekharacharya.github.io"><img src="https://img.shields.io/badge/Portfolio-ff6a3d?style=for-the-badge&logo=googlechrome&logoColor=0a0a0b" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/rajsekhar-acharya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rajsekhar.acharya@gmail.com"><img src="https://img.shields.io/badge/Email-17171a?style=for-the-badge&logo=gmail&logoColor=ff6a3d" alt="Email" /></a>
+  <a href="https://rajsekharacharya.github.io/RajsekharAcharyaResume.pdf"><img src="https://img.shields.io/badge/Resume-17171a?style=for-the-badge&logo=readdotcv&logoColor=ff6a3d" alt="Resume" /></a>
+  <a href="https://twitter.com/imrajsekhar"><img src="https://img.shields.io/badge/Twitter-17171a?style=for-the-badge&logo=x&logoColor=ff6a3d" alt="Twitter" /></a>
 </p>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-<div align="center">
+Java backend developer with **5 years** building and scaling enterprise production systems on Java 17, Spring Boot and microservices. I specialise in REST API design, event-driven architecture with Apache Kafka, Spring Cloud and OAuth2/JWT security.
 
-| 🍲 Cuisine Command | 🌐 Multi-Tenant SaaS |
-|---|---|
-| A full-featured **Restaurant Management App** — handles orders, inventory, billing & staff in one dashboard. | Enterprise-grade **SaaS architecture** with tenant isolation, dynamic schema routing & RBAC. |
-| [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/rajsekharacharya/cuisine-command) [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://github.com/rajsekharacharya/cuisine-command) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/rajsekharacharya/cuisine-command) | [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/rajsekharacharya/Multi-tenant-saas) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/rajsekharacharya/Multi-tenant-saas) [![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/rajsekharacharya/Multi-tenant-saas) |
-| [📂 View Project →](https://github.com/rajsekharacharya/cuisine-command) | [📂 View Project →](https://github.com/rajsekharacharya/Multi-tenant-saas) |
-
-| 💼 Account Management | 🛠️ Resource Forge |
-|---|---|
-| A robust **financial accounting system** for managing ledgers, invoices & business reports. | An **Asset Management System** tracking resources, assignments & maintenance across organizations. |
-| [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/rajsekharacharya/Financial-accounting) [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://github.com/rajsekharacharya/Financial-accounting) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/rajsekharacharya/Financial-accounting) | [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/rajsekharacharya/Resource-Forge) [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://github.com/rajsekharacharya/Resource-Forge) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/rajsekharacharya/Resource-Forge) |
-| [📂 View Project →](https://github.com/rajsekharacharya/Financial-accounting) | [📂 View Project →](https://github.com/rajsekharacharya/Resource-Forge) |
-
-</div>
+- Senior Java Backend Developer at **Vareli Tecnac Pvt Ltd**, Kolkata, since 2022
+- Led a **6-member Agile team** and owned a monolith to microservices migration that cut deployment time by **40%**
+- Currently building **PPP**, a court booking and match-video platform, with Go, Spring Boot and Angular
+- Working towards the **AWS Certified Solutions Architect, Associate** certification
+- Ask me about Spring Boot, Kafka, API security and microservice design
 
 ---
 
-## 📊 GitHub Analytics
+## Tech stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajsekharacharya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsekharacharya&theme=tokyonight&hide_border=true" height="170" />
+
+| | |
+| :-- | :-- |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Java, Spring, Maven" /> |
+| **Messaging** | <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Apache Kafka" /> &nbsp; MQTT |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL, PostgreSQL" /> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,git&theme=dark" alt="Docker, GitHub Actions, Nginx, Linux, Git" /> |
+| **Also** | <img src="https://skillicons.dev/icons?i=angular,ts,go,py&theme=dark" alt="Angular, TypeScript, Go, Python" /> |
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsekharacharya&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="200" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajsekharacharya&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF" width="95%" />
-</div>
+Spring MVC, Spring Cloud, Spring Data JPA and Hibernate, Spring Security (OAuth2, JWT, RBAC), Swagger/OpenAPI, JUnit 5, Postman.
 
 ---
 
-## 📈 GitHub Profile Summary
+## Selected work
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajsekharacharya&theme=tokyonight" width="95%" />
-</div>
+| Project | What it does | Result |
+| :-- | :-- | :-- |
+| **PPP** <sub>in development</sub> | Court booking, edge video capture and match analytics for pickleball venues. A Go agent on Raspberry Pi uploads footage to cloud storage and a Spring Boot and Angular backend serves it to players. | Designed for about 500 venues |
+| **V-Integrate** | Kafka microservices migration of a monolithic ERP, using Spring Cloud services and consumer groups for order, inventory and billing events. | 40% faster deployments |
+| **SMRPS** | Smart raw material procurement for a manufacturing client, with industrial IoT weighbridges feeding a Spring Boot API. | 60% less processing time, no manual entry |
+| **Omnichannel Retail Platform** | Inventory, billing, procurement and stock for a leading retail chain, led as a 6-member Agile team. | 5+ modules in under 12 months |
+| **Ranfort Wellness ERP** | Full-stack ERP on Spring Boot 3, Java 17, Angular 21 and PostgreSQL for marketing, sales, finance and clinical delivery. | In production |
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajsekharacharya&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajsekharacharya&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajsekharacharya&theme=tokyonight&utcOffset=5.5" width="32%" />
-</div>
+### Open source
+
+| Repository | Description | Stack |
+| :-- | :-- | :-- |
+| [**Multi-Tenant SaaS**](https://github.com/rajsekharacharya/Multi-tenant-saas) | Database-per-tenant isolation with dynamic routing | Spring Boot 3, MySQL, Flyway |
+| [**Cuisine Command**](https://github.com/rajsekharacharya/cuisine-command) | Restaurant POS handling concurrent orders over WebSockets | Angular, Java 17 |
+| [**Resource Forge**](https://github.com/rajsekharacharya/Resource-Forge) | Asset lifecycle and depreciation tracking | Python, PostgreSQL |
+| [**FinAcc Core**](https://github.com/rajsekharacharya/Financial-accounting) | Double-entry ledger with audit trails | Java, Spring Security |
 
 ---
 
-## 🐍 Contribution Snake
+## GitHub activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rajsekharacharya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=ff6a3d&icon_color=ff6a3d&bg_color=0a0a0b" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rajsekharacharya&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=c2370a&icon_color=c2370a" />
+    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rajsekharacharya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=ff6a3d&icon_color=ff6a3d&bg_color=0a0a0b" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsekharacharya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=ff6a3d&bg_color=0a0a0b" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsekharacharya&layout=compact&theme=default&hide_border=true&langs_count=8&title_color=c2370a" />
+    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsekharacharya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=ff6a3d&bg_color=0a0a0b" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rajsekharacharya&theme=tokyonight&hide_border=true&ring=ff6a3d&fire=ff6a3d&currStreakLabel=ff6a3d&background=0a0a0b" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rajsekharacharya&theme=default&hide_border=true&ring=c2370a&fire=c2370a&currStreakLabel=c2370a" />
+    <img width="70%" alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rajsekharacharya&theme=tokyonight&hide_border=true&ring=ff6a3d&fire=ff6a3d&currStreakLabel=ff6a3d&background=0a0a0b" />
+  </picture>
+</div>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajsekharacharya/rajsekharacharya/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajsekharacharya/rajsekharacharya/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/rajsekharacharya/rajsekharacharya/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/rajsekharacharya/rajsekharacharya/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -159,12 +107,8 @@
 
 <div align="center">
 
-### 💡 Quote of the Day
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+**Open to interesting backend and architecture work.** Reach me at [rajsekhar.acharya@gmail.com](mailto:rajsekhar.acharya@gmail.com) or through the [portfolio](https://rajsekharacharya.github.io).
 
 </div>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C06C84,100:355C7D&height=120&section=footer&text=Thanks+for+visiting!&fontSize=28&fontColor=fff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2370a,100:0a0a0b&height=110&section=footer" width="100%" alt="" />
